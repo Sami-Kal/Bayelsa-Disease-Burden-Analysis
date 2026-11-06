@@ -130,9 +130,9 @@ Files	Descriptions
 
 **DASHBOARD PAGES**
 
-Page1_Executive_Overview.png: High-level summary of Bayelsa's disease burden for executive and policy stakeholders.
+Page1_Executive_ Overview.png: High-level summary of Bayelsa's disease burden for executive and policy stakeholders.
 
-Page 2 - Death Trend Analysis: Tracks the full trajectory of Bayelsa's top 10 causes of death between 2013 and 2023.
+Page2_Death_Trend.png: Tracks the full trajectory of Bayelsa's top 10 causes of death between 2013 and 2023.
 
 Page 3 – DALYs Burden Analysis: Examines the total combined burden of death and disability.
 
