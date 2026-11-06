@@ -130,43 +130,43 @@ Files	Descriptions
 
 **DASHBOARD PAGES**
 
-### Page 1 — Executive Overview
-![Executive Overview](visuals/Page1_Executive_Overview.png)
+### Page 1: Executive Overview
+![Executive Overview](Page1_Executive_Overview.png)
 
 High-level summary of Bayelsa's disease burden, with KPI cards, a top 10 causes of death chart, a disease category donut and a summary table.
 
 ---
 
-### Page 2 — Deaths Trend Analysis
-![Deaths Trend Analysis](visuals/Page2_Deaths_Trend.png)
+### Page 2: Deaths Trend Analysis
+![Deaths Trend Analysis](Page2_Deaths_Trend.png)
 
 Tracks the top 10 causes of death from 2013 to 2023, with rank change and deaths per 100k charts.
 
 ---
 
-### Page 3 — DALYs Burden Analysis
-![DALYs Burden Analysis](visuals/Page3_DALYs_Burden.png)
+### Page 3: DALYs Burden Analysis
+![DALYs Burden Analysis](Page3_DALYs_Burden.png)
 
 Combined burden of death and disability, with percentage change and 2023 rankings.
 
 ---
 
-### Page 4 — State Benchmarking
-![State Benchmarking](visuals/Page4_Benchmarking.png)
+### Page 4: State Benchmarking
+![State Benchmarking](/Page4_Benchmarking.png)
 
 Bayelsa compared with 8 peer Nigerian states and the global Low-Middle SDI group.
 
 ---
 
-### Page 5 — Risk Factors Analysis
-![Risk Factors Analysis](visuals/Page5_Risk_Factor.png)
+### Page 5: Risk Factors Analysis
+![Risk Factors Analysis](Page5_Risk_Factor.png)
 
 The behavioral, metabolic and environmental risks driving the disease burden.
 
 ---
 
-### Page 6 — Public Health Insights & Recommendations
-![Insights and Recommendations](visuals/Page6_Recommendations.png)
+### Page 6: Public Health Insights & Recommendations
+![Insights and Recommendations](Page6_Recommendations.png)
 
 Key findings and the prioritised action plan.
 
