@@ -131,10 +131,15 @@ Files	Descriptions
 **DASHBOARD PAGES**
 
 Page 1 - Executive Overview: High-level summary of Bayelsa's disease burden for executive and policy stakeholders.
+
 Page 2 - Death Trend Analysis: Tracks the full trajectory of Bayelsa's top 10 causes of death between 2013 and 2023.
+
 Page 3 – DALYs Burden Analysis: Examines the total combined burden of death and disability.
+
 Page 4: State Benchmarking: Benchmarks Bayelsa against 8 peer Nigerian states and the global Low-Middle SDI comparison group.
+
 Page 5: Risk Factor Analysis: Identifies the behavioural, metabolic and environmental risks driving Bayelsa's disease burden
+
 Page 6: Health Insights and Recommendations: Synthesizes all findings into a cohesive evidence-based action plan. Features the epidemiological transition alert, public health progress statement, benchmarking alert, full recommendations table and full data source citation.
 
 **KEY INSIGHTS**
@@ -161,9 +166,13 @@ Page 6: Health Insights and Recommendations: Synthesizes all findings into a coh
 **LIMITATIONS**
 
 •	Data derives from GBD modelled estimates and not direct facility surveillance from Bayelsa State health facilities. Actual figures may differ from modelled estimates, particularly for conditions with limited reporting infrastructure.
+
 •	Analysis covers all ages combined. Therefore, age-disaggregated analysis would provide additional depth for targeted intervention planning.
+
 •	LGA-level data is not available in the current GBD subnational dataset. Therefore, all findings reflect state-level aggregates.
+
 •	The benchmark comparison uses DALYs rankings not absolute values. Therefore, ranking differences do not directly translate to proportional burden differences
+
 •	GBD subnational estimates for Nigeria carry wider uncertainty intervals than national-level estimates due to data sparsity at the state level
 
 **REFERENCE**
