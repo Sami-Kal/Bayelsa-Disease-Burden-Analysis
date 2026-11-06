@@ -130,17 +130,47 @@ Files	Descriptions
 
 **DASHBOARD PAGES**
 
-Page1_Executive_ Overview.png High-level summary of Bayelsa's disease burden for executive and policy stakeholders.
+### Page 1 — Executive Overview
+![Executive Overview](visuals/Page1_Executive_Overview.png)
 
-Page2_Death_Trend.png Tracks the full trajectory of Bayelsa's top 10 causes of death between 2013 and 2023.
+High-level summary of Bayelsa's disease burden, with KPI cards, a top 10 causes of death chart, a disease category donut and a summary table.
 
-Page 3 – DALYs Burden Analysis: Examines the total combined burden of death and disability.
+---
 
-Page 4: State Benchmarking: Benchmarks Bayelsa against 8 peer Nigerian states and the global Low-Middle SDI comparison group.
+### Page 2 — Deaths Trend Analysis
+![Deaths Trend Analysis](visuals/Page2_Deaths_Trend.png)
 
-Page 5: Risk Factor Analysis: Identifies the behavioural, metabolic and environmental risks driving Bayelsa's disease burden
+Tracks the top 10 causes of death from 2013 to 2023, with rank change and deaths per 100k charts.
 
-Page 6: Health Insights and Recommendations: Synthesizes all findings into a cohesive evidence-based action plan. Features the epidemiological transition alert, public health progress statement, benchmarking alert, full recommendations table and full data source citation.
+---
+
+### Page 3 — DALYs Burden Analysis
+![DALYs Burden Analysis](visuals/Page3_DALYs_Burden.png)
+
+Combined burden of death and disability, with percentage change and 2023 rankings.
+
+---
+
+### Page 4 — State Benchmarking
+![State Benchmarking](visuals/Page4_Benchmarking.png)
+
+Bayelsa compared with 8 peer Nigerian states and the global Low-Middle SDI group.
+
+---
+
+### Page 5 — Risk Factors Analysis
+![Risk Factors Analysis](visuals/Page5_Risk_Factor.png)
+
+The behavioral, metabolic and environmental risks driving the disease burden.
+
+---
+
+### Page 6 — Public Health Insights & Recommendations
+![Insights and Recommendations](visuals/Page6_Recommendations.png)
+
+Key findings and the prioritised action plan.
+
+---
 
 **KEY INSIGHTS**
 
