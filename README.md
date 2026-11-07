@@ -28,8 +28,7 @@
 
 •	References
 
-**THE STORY BEHIND THE DATA**
-
+## THE STORY BEHIND THE DATA
 In 2013, a little over a decade, the story of disease in Bayelsa was, in many ways, a common Niger Delta story. Malaria reigned supreme, as it had for generations. The entire landscape is characterised by swamp, dense vegetation, occasional flooding, and stagnant water. The environment in a nutshell is a fertile breeding ground for the culprit; the female anopheles’ mosquitoes.
 
 Children died from diarrheal diseases carried in unsafe water. Neonatal deaths were painfully common in communities where skilled birth attendance was a privilege. Meningitis outbreak was on rampage. Lower respiratory infections claimed lives that antibiotics could have saved. These are all familiar enemies, and the sustained war against them is as old as their exploit. However, something began shifting beneath the surface.
