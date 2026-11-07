@@ -39,13 +39,11 @@ Ischemic Heart Disease, once an afterthought in Bayelsa’s health planning, ran
 
 This dashboard tells that story. Not just in numbers, but in what those numbers mean for the Bayelsa people, and for the public health planners, policymakers, and healthcare workers who must now fight a war on two fronts: finishing the battles against the old enemies while preparing defence against the new ones.
 
-**PROJECT OVERVIEW**
-
+## PROJECT OVERVIEW
 This project analyses the top 10 causes of death and top 10 causes of disability (DALYs) in Bayelsa state between 2013 and 2023. The data used was sourced from the Global Burden of Disease (GBD) study 2023 published by the Institute for Health Metrics and Evaluation (IHME). The findings are benchmarked against 8 peer Nigeria states and a global Low-Middle SDI comparison group.
 The analysis is presented through a 6-page interactive Power BI dashboard designed to inform public health planning, resource allocation, and evidence-based policy decision at the state level.
 
-**BUSINESS PROBLEM**
-
+## BUSINESS PROBLEM
 The state Ministry of Health and other health policy makers require evidence-based answers to the following critical questions:
 1.	What is the leading cause of death and disability in Bayelsa state as at 2023?
 2.	How has the disease burden changed over the past decade?
@@ -60,8 +58,7 @@ Without these insights, healthcare policy-makers risk:
 3.	Failing to track progress toward Nigeria’s health sector development goals
 4.	Inability to make the evidence-based for increased funding
 
-**PROJECT OBJECTIVES**
-
+## PROJECT OBJECTIVES
 1.	Identify the top 10 leading causes of death in Bayelsa state in 2023
 2.	Track rank and absolute changes of DALYs in causes of death between 2013 and 2023
 3.	Identify the top 10 causes of DALYs and measure their 10-year improvement
@@ -71,17 +68,15 @@ Without these insights, healthcare policy-makers risk:
 7.	Develop evidence-based public health recommendations grounded in the data
 8.	Present findings through a 6-page executive Power BI dashboard
 
-**DATASET**
-
+## DATASET
 •	Data Source: Global Burden of Disease (GBD) Study 2023 - IHME
 •	Location: Bayelsa State, Nigeria.
 •	Period: 2013 – 2023h
 •	Access: GDB Results Tool
 •	Citation: GBD 2023 Collaborators. The Lancet. 2025. https://doi.org/10.1016/S0140-6736(25)01637-X
 
-**FILE USED**
-
-## Files	Descriptions
+## FILE USED
+### Files	Descriptions
 1.	Bayelsa-deaths-rank-chart.csv	Top 10 causes of death - 2023 rank and absolute change per 100k from 2013
 2.	Bayelsa-daly-rank-chart.csv	Top 10 risk factors - 2023 rank and DALYs change per 100k
 3.	Bayelsa-benchmark-table-DALY.csv	DALYs rankings - Bayelsa vs 8 peer states and SDI comparison group
@@ -89,10 +84,8 @@ Without these insights, healthcare policy-makers risk:
 5.	Bayelsa_Combined_Summary.csv	Unified summary of deaths, DALYs and risk factor data
 6.	Bayelsa_Disease_Burden_Master.xlsx	Master Excel workbook - all 5 datasets cleaned and structured
 	
-**KEY VARIABLES**
-
-## Variables	Description
-
+## KEY VARIABLES
+### Variables	Description
 1.	cause / risk	Disease name or risk factor
 2.	Cause type	Category: Communicable, NCD, or Injuries
 3.	rank_2013	Burden ranking in 2013
@@ -135,7 +128,7 @@ High-level summary of Bayelsa's disease burden, with KPI cards, a top 10 causes 
 ---
 
 ### Page 2: Deaths Trend Analysis
-![Deaths Trend Analysis](Page2_Deaths_Trend.png)
+![Deaths Trend Analysis](Page2_Death_Trend.png)
 
 Tracks the top 10 causes of death from 2013 to 2023, with rank change and deaths per 100k charts.
 
