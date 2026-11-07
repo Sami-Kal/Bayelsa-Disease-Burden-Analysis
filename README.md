@@ -166,9 +166,8 @@ Key findings and the prioritised action plan.
 
 ---
 
-**KEY INSIGHTS**
-
-1. The Epidemiological Transition: Bayelsa State has crossed a historic threshold. Ischemic Heart Disease rose from rank 7 in 2013 to become the number one cause of death in 2023, overtaking Malaria which had dominated for generations. Three NCDs now occupy the top 10 causes of death and all are worsening simultaneously. This is our current reality.
+## KEY INSIGHTS
+1. The Epidemiological Transition: Ischemic Heart Disease rose from rank 7 in 2013 to become the number one cause of death in 2023, overtaking Malaria which had dominated for generations. Three NCDs now occupy the top 10 causes of death and all are worsening simultaneously. This is our current reality.
 2. Communicable Diseases are been contained but Not Gone: Every communicable disease in the top 10 deaths list showed improvement over the decade. Diarrheal diseases recorded the largest absolute reduction resulting to 43.4 fewer deaths per 100,000 people. Malaria deaths fell by 24.4 per 100,000. These gains represent years of sustained public health effort and must be protected, not abandoned, as attention shifts to NCDs.
 3. All DALYs Conditions Improved: All 10 leading causes of disability-adjusted life years showed measurable improvement between 2013 and 2023. This is a remarkable public health achievement for a state that only 27 years ago did not exist as an administrative entity. Diarrheal diseases led with an 81.2% reduction in DALYs — the strongest single improvement across the entire analysis.
 4. Neonatal Disorders Carry a Hidden Burden: While Neonatal Disorders ranks 4th in deaths, it ranks 1st in DALYs. This means many new-borns are surviving but carrying significant lifelong disability which is a hidden burden that mortality statistics alone cannot reveal. The gap between the death rank and DALYs rank is the widest of any condition in the analysis.
