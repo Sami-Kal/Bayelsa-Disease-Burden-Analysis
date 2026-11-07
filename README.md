@@ -70,9 +70,13 @@ Without these insights, healthcare policy-makers risk:
 
 ## DATASET
 •	Data Source: Global Burden of Disease (GBD) Study 2023 - IHME
+
 •	Location: Bayelsa State, Nigeria.
-•	Period: 2013 – 2023h
+
+•	Period: 2013 – 2023
+
 •	Access: GDB Results Tool
+
 •	Citation: GBD 2023 Collaborators. The Lancet. 2025. https://doi.org/10.1016/S0140-6736(25)01637-X
 
 ## FILE USED
