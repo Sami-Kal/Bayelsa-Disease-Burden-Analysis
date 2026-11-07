@@ -172,8 +172,7 @@ Key findings and the prioritised action plan.
 6. Bayelsa's Malaria Burden Is Disproportionate to Its Development Level: While global Low-Middle SDI peers rank Malaria only 20th in DALYs burden, Bayelsa ranks it 1st. This extraordinary gap reflects the unique ecological reality of the Niger Delta where perennial flooding, dense vegetation and inadequate drainage create near-permanent conditions for malaria transmission that defy the level of control achieved elsewhere at similar development stages.
 7. Road Injuries: Road injuries appear in the top 10 DALYs causes but not in the top 10 deaths list indicating significant disability from road traffic injuries that stops short of fatality. This invisible burden demands public health attention beyond the hospital emergency room.
 
-**RECOMMENDATIONS**
-
+## RECOMMENDATIONS
 1.	Establish NCD screening and prevention programs at all PHC facilities.
 2.	Sustain meningitis vaccination and outbreak preparedness.
 3.	Strengthen neonatal emergency care and skilled birth attendance across all LGAs.
@@ -183,8 +182,7 @@ Key findings and the prioritised action plan.
 7.	Develop a congenital defect registry and early intervention program
 8.	Continue TB and HIV/AIDS control programs
 
-**LIMITATIONS**
-
+## LIMITATIONS
 •	Data derives from GBD modelled estimates and not direct facility surveillance from Bayelsa State health facilities. Actual figures may differ from modelled estimates, particularly for conditions with limited reporting infrastructure.
 
 •	Analysis covers all ages combined. Therefore, age-disaggregated analysis would provide additional depth for targeted intervention planning.
@@ -195,8 +193,7 @@ Key findings and the prioritised action plan.
 
 •	GBD subnational estimates for Nigeria carry wider uncertainty intervals than national-level estimates due to data sparsity at the state level
 
-**REFERENCE**
-
+## REFERENCE
 •	GBD 2023 Collaborators. *Burden of 375 diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life expectancy in 204 countries and territories, including 660 subnational locations, 1990–2023: a systematic analysis for the GBD Study 2023.* The Lancet. 2025. https://doi.org/10.1016/S0140-6736(25)01637-X 
 
 •	Institute for Health Metrics and Evaluation (IHME). *GBD Results Tool.* Seattle, WA: IHME, 2024. https://healthdata.org/data-visualization/gbd-results
