@@ -82,7 +82,7 @@ Without these insights, healthcare policy-makers risk:
 
 **FILE USED**
 
-Files	Descriptions
+## Files	Descriptions
 1.	Bayelsa-deaths-rank-chart.csv	Top 10 causes of death - 2023 rank and absolute change per 100k from 2013
 2.	Bayelsa-daly-rank-chart.csv	Top 10 risk factors - 2023 rank and DALYs change per 100k
 3.	Bayelsa-benchmark-table-DALY.csv	DALYs rankings - Bayelsa vs 8 peer states and SDI comparison group
@@ -92,7 +92,7 @@ Files	Descriptions
 	
 **KEY VARIABLES**
 
-**Variables	Description**
+## Variables	Description
 
 1.	cause / risk	Disease name or risk factor
 2.	Cause type	Category: Communicable, NCD, or Injuries
@@ -102,7 +102,7 @@ Files	Descriptions
 6.	change	Absolute or percentage change in burden
 7.	 trend	Worsening or Improving
 
-**TOOLS AND TECHNOLOGIES**
+## TOOLS AND TECHNOLOGIES
 
 •	Microsoft Excel
 
@@ -114,8 +114,7 @@ Files	Descriptions
 
 •	GBD Results Tool
 
-**DATA PREPARATION**
-
+## DATA PREPARATION
 1.	Downloaded 4 datasets from the GBD Results Tool
 2.	Cleaned and standardized column headers
 3.	Computed rank change column - (2023 rank minus 2013 rank)
@@ -128,8 +127,7 @@ Files	Descriptions
 10.	Connected to Power BI and created 22 DAX measures
 11.	Applied conditional formatting throughout dashboard
 
-**DASHBOARD PAGES**
-
+## DASHBOARD PAGES
 ### Page 1: Executive Overview
 ![Executive Overview](Page1_Executive_Overview.png)
 
