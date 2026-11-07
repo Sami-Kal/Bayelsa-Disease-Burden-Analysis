@@ -81,12 +81,12 @@ Without these insights, healthcare policy-makers risk:
 
 ## FILE USED
 ### Files	Descriptions
-1.	Bayelsa-deaths-rank-chart.csv	Top 10 causes of death - 2023 rank and absolute change per 100k from 2013
-2.	Bayelsa-daly-rank-chart.csv	Top 10 risk factors - 2023 rank and DALYs change per 100k
-3.	Bayelsa-benchmark-table-DALY.csv	DALYs rankings - Bayelsa vs 8 peer states and SDI comparison group
-4.	Bayelsa-daly-hcbar-chart.csv	Top 10 DALYs causes - 2023 rank and % change from 2013
-5.	Bayelsa_Combined_Summary.csv	Unified summary of deaths, DALYs and risk factor data
-6.	Bayelsa_Disease_Burden_Master.xlsx	Master Excel workbook - all 5 datasets cleaned and structured
+1.	Bayelsa-deaths-rank-chart.csv:	The top 10 causes of death - 2023 rank and absolute change per 100k from 2013
+2.	Bayelsa-daly-rank-chart.csv:	The Top 10 risk factors - 2023 rank and DALYs change per 100k
+3.	Bayelsa-benchmark-table-DALY.csv: The DALYs rankings - Bayelsa vs 8 peer states and SDI comparison group
+4.	Bayelsa-daly-hcbar-chart.csv:	The Top 10 DALYs causes - 2023 rank and % change from 2013
+5.	Bayelsa_Combined_Summary.csv: The Unified summary of deaths, DALYs and risk factor data
+6.	Bayelsa_Disease_Burden_Master.xlsx: The	Master Excel workbook - all 5 datasets cleaned and structured
 	
 ## KEY VARIABLES
 ### Variables	Description
